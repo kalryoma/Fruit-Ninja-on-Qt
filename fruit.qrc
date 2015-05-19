@@ -1,0 +1,18 @@
+<RCC>
+<qresource>
+    <file>images/fruit/apple.png</file>
+    <file>images/fruit/apple-1.png</file>
+    <file>images/fruit/apple-2.png</file>
+    <file>images/fruit/banana.png</file>
+    <file>images/fruit/banana-1.png</file>
+    <file>images/fruit/banana-2.png</file>
+    <file>images/fruit/strawberry.png</file>
+    <file>images/fruit/strawberry-1.png</file>
+    <file>images/fruit/strawberry-2.png</file>
+    <file>images/fruit/peach.png</file>
+    <file>images/fruit/peach-1.png</file>
+    <file>images/fruit/peach-2.png</file>
+    <file>images/background.jpg</file>
+    <file>images/flash.png</file>
+</qresource>
+</RCC>
